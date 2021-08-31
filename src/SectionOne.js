@@ -28,7 +28,7 @@ const useStyles = makeStyles({
     paddingTop: "30px",
   },
   media: {
-    height: 285,
+    height: 200,
   },
 });
 

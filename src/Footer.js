@@ -6,6 +6,7 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import {Container, Grid, Box, AppBar} from '@material-ui/core';
 import './App.css';
 
+
 function Footer() {
     const displayDesktop = () => {
       

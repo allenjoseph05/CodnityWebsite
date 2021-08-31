@@ -5,6 +5,8 @@
 .App-bg {
   height: 40vmin;
   pointer-events: none;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .App-header {
@@ -31,6 +33,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background-color: #201f1f;
 }
 
 code {
@@ -66,20 +70,3 @@ code {
   width: 100%;
 }
 
-.mobile {
-  width: 80px;
-  height: 80px;
-  margin: 0% auto;
-  border-radius: 50%;
-  box-shadow: 15px 15px 0 0 #e4dcf2;
-}
-
-.tablet-mobile {
-  width: 300px;
-  height: 100px;
-  background: #cab9e5;
-  margin: 0 auto;
-}
-.tablet-mobile p {
-  padding-top: 2%;
-}
